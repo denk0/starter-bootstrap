@@ -11,7 +11,7 @@ It has a Gulp-powered build system with these features:
   - JavaScript compression
   - Image compression
 
-## Installation
+## Setting up
 
 To use this template, your computer needs:
 
