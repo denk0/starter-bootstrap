@@ -42,4 +42,4 @@ Finally, run `npm start` to run Gulp. Your finished site will be created in a fo
 http://localhost:8000
 ```
 
-To create compressed, production-ready assets, run `npm run build`.
+To create compressed, production-ready assets, run `gulp build`.
